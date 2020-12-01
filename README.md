@@ -14,5 +14,5 @@ pytest -v
 ```
 if pytest is not installed, use command:
 ```
-pip3 install -u pytest
+pip3 install pytest
 ```
