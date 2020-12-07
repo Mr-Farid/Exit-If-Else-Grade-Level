@@ -1,4 +1,5 @@
-import pytest, question
+import pytest
+import question
 
 @pytest.mark.parametrize(
   'num1, result',
